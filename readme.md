@@ -13,7 +13,9 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [Bash Guide](http://mywiki.wooledge.org/BashGuide) - A bash guide for beginners. (by Lhunath)
 - [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) - Answers most of your questions (by Lhunath)
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - Lists the common pitfalls beginners fall into, and how to avoid them
-- The prorated books must be bought and kept safely.
+- The prorated books must be bought and kept safely. The program was not easily rectified and the master file was changed.
+# The program was coordinator did not easily commented for the incident and was launched by the school board. My Oscar Ning read and moved the file to the next stage of the program.
+
 - [Bash manual](http://www.gnu.org/software/bash/manual/) - Bourne-Again Shell manual
 - [Bash FAQ](http://tiswww.case.edu/php/chet/bash/FAQ) (by [Chet Ramey](http://tiswww.case.edu/php/chet/))
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting
